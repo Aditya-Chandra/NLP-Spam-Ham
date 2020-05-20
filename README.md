@@ -1,4 +1,4 @@
-This is a projectof NLP where I have build a model to detect Spam/Ham and finally deployed it using Flask web framework on Heroku (PaaS) platform.
+This is a project of NLP where I have build a model to detect Spam/Ham and finally deployed it using Flask web framework on Heroku (PaaS) platform.
 
 The link of the web app is given below, here we can open the web app, write the message and thenpress Predict button after which it will show Output as SPAM or HAM.
 
